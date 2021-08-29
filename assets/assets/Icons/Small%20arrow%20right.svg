@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="21" viewBox="0 0 40 21">
+  <defs>
+    <clipPath id="clip-Small_arrow_right">
+      <rect width="40" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Small_arrow_right" data-name="Small arrow right" clip-path="url(#clip-Small_arrow_right)">
+    <g id="Arrow_L" data-name="Arrow L" transform="translate(11.065 6.288)">
+      <line id="Line_1" data-name="Line 1" x2="17.869" transform="translate(0 4.212)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="5.956" transform="translate(13.657 8.423) rotate(-45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="5.956" transform="translate(13.657 0) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
